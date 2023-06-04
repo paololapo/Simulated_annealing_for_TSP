@@ -39,14 +39,14 @@ I also specifically focused on the initial temperature parameter. To do this, I 
 An optimal choice for the initial temperature parameter is one that guarantees an initial acceptance rate of around 80%. 
 
 <p align="center">
-  <img src="images\hyperparameter_tuning.png" width="26.5%">
-  <img src="images\T0.png" width="50%">
+  <img src="images/hyperparameter_tuning.png" width="26.5%">
+  <img src="images/T0.png" width="50%">
 </p>
 
 I created also a GIF that shows the different tested configurations and how the algorithm converges towards an optimal solution over time.
 
 <p align="center">
-  <img src="images\SA.gif" width="40%">
+  <img src="images/SA.gif" width="40%">
   </p>
 
 ### Real scenario
