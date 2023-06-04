@@ -54,5 +54,5 @@ To demonstrate the applicability of the simulated annealing algorithm for real-w
 The algorithm takes the map of Padua and the positions of the cafes as inputs, and constructs a graph where each node represents a cafe and the edges between nodes represent the distance between them, considering the streets and buldings of Padua. The simulated annealing algorithm then uses this graph to find the shortest possible route that visits each cafe exactly once and returns to the starting cafe
 
 <p align="center">
-  <img src="images\padua_graph.png" width="60%">
+  <img src="images/padua_graph.png" width="60%">
 </p>
