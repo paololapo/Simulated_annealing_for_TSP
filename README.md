@@ -15,14 +15,14 @@ Simulated annealing is a popular optimization algorithm due to its ability to fi
 I generated a random distribution of cities and ran the simulated annealing algorithm to find the shortest possible route that visits each city exactly once and returns to the starting city. 
 
 <p align="center">
-  <img src="images\dist_cities.png" width="30%">
-  <img src="images\final_path.png" width="30%">
+  <img src="images/dist_cities.png" width="30%">
+  <img src="images/final_path.png" width="30%">
 </p>
 
 To evaluate the performance of the algorithm, I plotted a learning curve that shows the loss of the tested, accepted, and the best combination tested in simulated annealing.
 
 <p align="center">
-  <img src="images\learning_curve.png" width="50%">
+  <img src="images/learning_curve.png" width="50%">
 </p>
 
 ### Hyperapameters
